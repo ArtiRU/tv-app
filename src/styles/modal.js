@@ -4,12 +4,14 @@ import Modal from "@mui/material/Modal";
 
 export const StyledPaper = styled(Paper)(({theme}) => ({
     width: '80%',
+    height: '80%',
     backgroundColor: '#39445a',
     border: '1px solid #282c34',
     borderRadius: '10px',
     color: '#fff',
     boxShadow: theme.shadows[5],
     padding: theme.spacing(1, 1, 3),
+    overflow: 'scroll'
 }));
 
 export const StyledModal = styled(Modal)(() => ({
