@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/tv-app/static/js/main.0574bbe3.chunk.js",
+    "main.js.map": "/tv-app/static/js/main.0574bbe3.chunk.js.map",
+    "runtime-main.js": "/tv-app/static/js/runtime-main.5312de24.js",
+    "runtime-main.js.map": "/tv-app/static/js/runtime-main.5312de24.js.map",
+    "static/css/2.eef662ca.chunk.css": "/tv-app/static/css/2.eef662ca.chunk.css",
+    "static/js/2.1e6bde24.chunk.js": "/tv-app/static/js/2.1e6bde24.chunk.js",
+    "static/js/2.1e6bde24.chunk.js.map": "/tv-app/static/js/2.1e6bde24.chunk.js.map",
+    "index.html": "/tv-app/index.html",
+    "static/css/2.eef662ca.chunk.css.map": "/tv-app/static/css/2.eef662ca.chunk.css.map",
+    "static/js/2.1e6bde24.chunk.js.LICENSE.txt": "/tv-app/static/js/2.1e6bde24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5312de24.js",
+    "static/css/2.eef662ca.chunk.css",
+    "static/js/2.1e6bde24.chunk.js",
+    "static/js/main.0574bbe3.chunk.js"
+  ]
+}
